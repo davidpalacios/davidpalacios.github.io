@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "OpenMRS - XML Reports"
+author: David Palacios
 date:   2015-05-03 23:59:19
 categories: xml-reports
 ---
