@@ -4,8 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Some publicly available links of my work.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+* Code and projects:
+	* https://wiki.openmrs.org/display/docs/Reporting+Module+Release+Notes+0.8.x
+	* http://mujertec.mty.itesm.mx/publico/inicio
+	* http://sasim.com.mx/js/controllers.js 
+	* http://sasim.com.mx/js/app.js
+	* http://sasim.com.mx/js/services.js
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+* Documentation:
+	* https://wiki.openmrs.org/display/docs/Designing+Reports
+	* https://wiki.openmrs.org/pages/viewpreviousversions.action?pageId=19300639
